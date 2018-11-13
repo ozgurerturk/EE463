@@ -1,2 +1,1 @@
-# EE463
-Things about EE463 
+Özgür Ertürk
